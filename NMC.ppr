@@ -1,0 +1,52 @@
+[Config]
+Compilator.SaveAll=0
+Compilator.Capture=0
+Compilator.HideOutput=0
+Compilator.LogType=0
+DefaultDir=C:\xampp\htdocs\NMC
+DefaultCPIndex=0
+LogtoEnd=1
+DontOpen=0
+AbsolutePath=0
+FileFormat=0
+ProjectFilesOnly=0
+Extensions=*.*
+[Project tree]
+NMC
+	+NMC
+		-.svn
+			-text-base
+				.svn\text-base\cordova-1.6.1.js.svn-base
+				.svn\text-base\index.html.svn-base
+				.svn\text-base\main.js.svn-base
+				.svn\text-base\master.css.svn-base
+			.svn\all-wcprops
+			.svn\entries
+		cordova-1.6.1.js
+		data.js
+		index.html
+		compliance_chart.xml
+		ReportServer.xml
+		datatest.html
+		Code explorer
+		epm_data.js
+		compliance_chart_full.xml
+		..\bootstrap\data.js
+		NMC_presentation_layer.js
+		..\bootstrap\index.html
+[Open project files]
+0=index.html
+1=NMC_presentation_layer.js
+2=data.js
+[Selected Project Files]
+Main=
+Selected=index.html
+[index.html]
+TopLine=67
+Caret=47,84
+[NMC_presentation_layer.js]
+TopLine=9
+Caret=43,28
+[data.js]
+TopLine=110
+Caret=57,130

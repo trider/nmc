@@ -1,0 +1,467 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js
+END
+bootstrap-tooltip.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-tooltip.js
+END
+kendo.dataviz.themes.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dataviz.themes.min.js
+END
+bootstrap-dropdown.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-dropdown.js
+END
+kendo.mobile.scroller.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.scroller.min.js
+END
+kendo.mobile.tabstrip.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.tabstrip.min.js
+END
+bootstrap-typeahead.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-typeahead.js
+END
+jquery.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/jquery.js
+END
+kendo.dataviz.vml.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dataviz.vml.min.js
+END
+kendo.history.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.history.min.js
+END
+kendo.data.xml.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.data.xml.min.js
+END
+kendo.mobile.application.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.application.min.js
+END
+kendo.data.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.data.min.js
+END
+kendo.datepicker.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.datepicker.min.js
+END
+kendo.fx.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.fx.min.js
+END
+canvg.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/canvg.js
+END
+kendo.mobile.view.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.view.min.js
+END
+kendo.resizable.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.resizable.min.js
+END
+kendo.mobile.button.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.button.min.js
+END
+bootstrap-popover.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-popover.js
+END
+kendo.upload.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.upload.min.js
+END
+kendo.grid.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.grid.min.js
+END
+kendo.draganddrop.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.draganddrop.min.js
+END
+kendo.validator.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.validator.min.js
+END
+kendo.dropdownlist.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dropdownlist.min.js
+END
+kendo.core.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.core.min.js
+END
+rgbcolor.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/rgbcolor.js
+END
+kendo.dataviz.core.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dataviz.core.min.js
+END
+kendo.data.odata.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.data.odata.min.js
+END
+bootstrap-alert.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-alert.js
+END
+kendo.autocomplete.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.autocomplete.min.js
+END
+kendo.selectable.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.selectable.min.js
+END
+bootstrap-button.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-button.js
+END
+bootstrap-carousel.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-carousel.js
+END
+html5.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/html5.js
+END
+kendo.combobox.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.combobox.min.js
+END
+kendo.calendar.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.calendar.min.js
+END
+kendo.mobile.navbar.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.navbar.min.js
+END
+kendo.slider.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.slider.min.js
+END
+kendo.panelbar.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.panelbar.min.js
+END
+bootstrap-transition.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-transition.js
+END
+kendo.editor.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.editor.min.js
+END
+bootstrap-modal.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-modal.js
+END
+kendo.treeview.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.treeview.min.js
+END
+bootstrap-collapse.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-collapse.js
+END
+kendo.mobile.swipe.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.swipe.min.js
+END
+kendo.pager.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.pager.min.js
+END
+kendo.mobile.core.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.core.min.js
+END
+kendo.dataviz.svg.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dataviz.svg.min.js
+END
+bootstrap-tab.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-tab.js
+END
+kendo.dataviz.chart.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dataviz.chart.min.js
+END
+kendo.dataviz.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dataviz.min.js
+END
+kendo.binder.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.binder.min.js
+END
+kendo.popup.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.popup.min.js
+END
+kendo.listview.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.listview.min.js
+END
+kendo.splitter.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.splitter.min.js
+END
+kendo.mobile.switch.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.switch.min.js
+END
+kendo.mobile.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.min.js
+END
+kendo.window.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.window.min.js
+END
+kendo.editable.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.editable.min.js
+END
+kendo.filtermenu.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.filtermenu.min.js
+END
+kendo.list.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.list.min.js
+END
+kendo.sortable.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.sortable.min.js
+END
+jquery.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/jquery.min.js
+END
+kendo.numerictextbox.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.numerictextbox.min.js
+END
+application.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/application.js
+END
+bootstrap-scrollspy.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/bootstrap-scrollspy.js
+END
+kendo.tabstrip.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.tabstrip.min.js
+END
+modernizr.js
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/modernizr.js
+END
+kendo.dataviz.gauge.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.dataviz.gauge.min.js
+END
+kendo.timepicker.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.timepicker.min.js
+END
+kendo.mobile.buttongroup.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.buttongroup.min.js
+END
+kendo.mobile.scrollview.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.scrollview.min.js
+END
+kendo.menu.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.menu.min.js
+END
+kendo.all.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.all.min.js
+END
+kendo.mobile.listview.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.mobile.listview.min.js
+END
+kendo.web.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.web.min.js
+END
+kendo.groupable.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/QC_Reports_repo/!svn/ver/162/trunk/Mobile/NMC/assets/www/js/kendo.groupable.min.js
+END

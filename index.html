@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+  	<title>NMC</title>
+    <!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	 <![endif]-->
+    
+    <link href="styles/kendo.common.min.css" rel="stylesheet" />
+    <link href="styles/kendo.default.min.css" rel="stylesheet"/>
+    <link href="styles/kendo.mobile.all.min.css" rel="stylesheet" />
+    <link href="styles/kendo.dataviz.min.css" rel="stylesheet" />
+    
+    <script class="jsbin" src="js/jquery.min.js"></script>
+    <script src="js/kendo.dataviz.min.js"></script>
+    <script src="js/console.js"></script>
+    <script src="http://cdn.kendostatic.com/2011.3.1407/js/kendo.all.min.js"></script>
+    <script src="js/rgbcolor.js"></script>
+    <script src="js/canvg.js"></script>
+    <script src="cordova-1.6.1.js"></script> 
+    <script src="data.js"></script>
+    <script src="NMC_presentation_layer.js"></script>
+    
+	 <!-- Le styles -->
+	 <link href="css/bootstrap.css" rel="stylesheet">
+    <style>
+      body {
+        padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
+      }
+      select{ /* Text and background colour, blue on light gray */
+        color:white;
+        background-color:gray;
+        
+      }
+           
+    </style>
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+
+	
+    <!-- Le fav and touch icons -->
+    <link rel="shortcut icon" href="ico/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="ico/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="ico/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="ico/apple-touch-icon-57-precomposed.png">
+  
+        
+ </head>
+  
+  
+  <body>
+  
+  <div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container" >
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>
+       <a class="brand" href="#">NMC 0.14</a>
+
+      </div>
+    </div>
+  </div>
+   
+  <div class="container">
+    <div class="row" id="options">
+      <label class="control-label">Region</label>
+		<select id="region">
+	     <option selected value="asia">Asia Pacific</option>
+         <option value="bskyb">BSkyB;&nbsp;SKIT;&nbsp;Israel</option>
+         <option value="emea">EMEA</option>
+         <option value="profservices">Professional&nbsp;Services</option> 
+      </select>
+      <div id="p1"></div>
+	  <label>Chart type</label>
+      <select id="type">
+	   <option value="bar">Bar</option>
+       <option value="column">Column</option>
+       <option value="table">Table</option>
+      </select>
+      <label class="control-label" for="maxItems">Max items</label>
+      <input class="input-xlarge focused span3" id="maxItems" type="text" value="20">
+      <label class="checkbox"> Stacked<input type="checkbox" id="stacked"></label>
+      <button class="btn btn-danger" id="btnView">Generate report</button>
+     </div>
+     <div class="row" id="data">
+      <button class="btn btn-danger" data-toggle="collapse" data-target="#options" id="btnHide">Show options</button>
+      <div id="chart"></div>
+    </div>
+  </div>
+     
+  <!-- Le javascript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="js/bootstrap-transition.js"></script>
+  <script src="js/bootstrap-alert.js"></script>
+  <script src="js/bootstrap-modal.js"></script>
+  <script src="js/bootstrap-dropdown.js"></script>
+  <script src="js/bootstrap-scrollspy.js"></script>
+  <script src="js/bootstrap-tab.js"></script>
+  <script src="js/bootstrap-tooltip.js"></script>
+  <script src="js/bootstrap-popover.js"></script>
+  <script src="js/bootstrap-button.js"></script>
+  <script src="js/bootstrap-collapse.js"></script>
+  <script src="js/bootstrap-carousel.js"></script>
+  <script src="js/bootstrap-typeahead.js"></script>
+     
+ </body>
+</html>
